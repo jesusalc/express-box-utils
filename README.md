@@ -7,3 +7,15 @@ Box Utils for Express() server in nodejs
     npm test
 ```
 
+
+  
+```Javascript 
+    const express-box-utils = require('express-box-utils');
+    app.use(express-box-utils.boxed);
+```
+ 
+ 
+```Javascript 
+    app.use(require('express-box-utils').boxed);
+```
+ 
