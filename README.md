@@ -10,8 +10,8 @@ Box Utils for Express() server in nodejs
 
   
 ```Javascript 
-    const express-box-utils = require('express-box-utils');
-    app.use(express-box-utils.boxed);
+    const express_box_utils = require('express-box-utils');
+    app.use(express_box_utils.boxed);
 ```
  
  
