@@ -1,0 +1,43 @@
+{
+  "name": "express-box-utils",
+  "version": "1.0.0",
+  "description": "Box Utils for Express() server in nodejs",
+  "main": "./lib/express-box-utils.js",
+  "scripts": {
+    "test": "NODE_ENV=testing mocha --recursive --timeout 10000 --exit "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusalc/express-box-utils.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "box-utils",
+    "npm",
+    "node",
+    "validation",
+    "selection",
+    "decistion",
+    "facilitation",
+    "server",
+    "tools"
+  ],
+  "engines": {
+    "node": ">= 6.10.3"
+  },
+  "author": "jesusalc@gmail.com",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/jesusalc/express-box-utils/issues"
+  },
+  "homepage": "https://github.com/jesusalc/express-box-utils#readme",
+  "devDependencies": {
+    "chakram": "^1.5.0",
+    "mocha": "^5.0.5"
+  },
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
