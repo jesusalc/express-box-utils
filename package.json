@@ -1,6 +1,6 @@
 {
   "name": "express-box-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Box Utils for Express() server in nodejs",
   "main": "./lib/express-box-utils.js",
   "scripts": {
